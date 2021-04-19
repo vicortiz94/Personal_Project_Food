@@ -1,7 +1,7 @@
 # First Personal Project: Food Selector
 ## Introduction
 This is a simple project I made to practice what I was learning. It helps you decide what to eat, from either a restuarant or a dish!
-## Instalation 
+## installation 
 Currently, the only way to use this program is to download it directly from github.
 ## How it works
 This program works very simply, using list to order the items you have. There are two list, one for restuarants and one for dishes. You add items to the list, and then the program will recommend items based on what is in the front of the list. You can either choose that item, or you can skip it and go on to the next item. Once you have a selected an item, it'll pop it out of the list and put it towards the end. 
